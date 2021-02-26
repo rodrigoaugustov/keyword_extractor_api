@@ -1,0 +1,15 @@
+transformers==3.5.1
+keybert==0.2.0
+flair==0.7
+textblob~=0.15.3
+nltk~=3.5
+unidecode~=1.1.1
+fastapi~=0.63.0
+pydantic~=1.7.3
+pandas~=1.2.2
+numpy~=1.20.1
+matplotlib~=3.3.2
+seaborn~=0.11.0
+gensim~=3.8.3
+sklearn~=0.0
+scikit-learn~=0.24.0
